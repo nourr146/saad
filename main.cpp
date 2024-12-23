@@ -1,3 +1,2 @@
-cout<<"lesgo";
 cout<<"sleepy";
-cout<<"confused and worried";
+cout<<"5er";
